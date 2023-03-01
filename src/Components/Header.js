@@ -22,7 +22,7 @@ function Header() {
       </div>
       <ul>
         <li>
-          <FaUser/>
+          <FaUser />
           <Link to="/register">Register</Link>
         </li>
         {user ? (
